@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584082153 source:c:\users\lenovo\desktop\cgassignmentfinal\main.c
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
